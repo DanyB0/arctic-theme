@@ -14,7 +14,7 @@ Download using the [GitHub .zip download](https://github.com/DanyB0/arctic-theme
 
 ```
 cd arctic-theme
-mv arctic-theme ~/.config/ncspot/config.toml
+mv config.toml ~/.config/ncspot/config.toml
 ```
 or add the following to your existing `~/.config/ncspot/config.toml`:
 
