@@ -12,7 +12,11 @@ Download using the [GitHub .zip download](https://github.com/DanyB0/arctic-theme
 
 #### Activating theme
 
-Move `arctic-theme.toml` to `~/.config/ncspot/config.toml` or add the following to your existing ~/.config/ncspot/config.toml:
+```
+cd arctic-theme
+mv arctic-theme ~/.config/ncspot/config.toml
+```
+or add the following to your existing `~/.config/ncspot/config.toml`:
 
     [theme]
     background = "#8D92A8"
